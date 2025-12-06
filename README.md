@@ -5,5 +5,5 @@
 <br />📫 contact details
 <ul>
   <li>my email : <a href="mailto:pariharharsh1234@gmail.com">pariharharsh1234@gmail.com</a></li>
-<li>my linkedin : https://www.linkedin.com/in/harsh-parihar-050517259</li>
+<li>my linkedin : https://www.linkedin.com/in/pariharharsh</li>
 </ul>
