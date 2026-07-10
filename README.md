@@ -133,16 +133,34 @@ I like building products that are useful beyond a demo: authenticated systems, d
 
 ---
 
-### GitHub Snapshot
+### Profile Snapshot
 
 <p align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=parihar-harsh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0f172a&title_color=38bdf8&icon_color=f59e0b&text_color=e5e7eb" alt="Harsh's GitHub stats" />
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parihar-harsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" alt="Top languages" />
+  <img src="https://img.shields.io/badge/GitHub-parihar--harsh-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub username" />
+  <img src="https://img.shields.io/badge/Primary%20Stack-MERN%20%2B%20PostgreSQL-2563eb?style=for-the-badge" alt="Primary stack" />
+  <img src="https://img.shields.io/badge/AI%20Focus-RAG%20%2B%20Automation-0891b2?style=for-the-badge" alt="AI focus" />
+  <img src="https://img.shields.io/badge/DSA-146%2B%20Solved-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA progress" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parihar-harsh&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" alt="GitHub streak" />
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>Build Style</strong>
+      <br><br>
+      Secure flows, clear APIs, practical UI, and production-minded decisions
+    </td>
+    <td width="33%" align="center">
+      <strong>Core Strength</strong>
+      <br><br>
+      Turning messy requirements into usable full-stack systems
+    </td>
+    <td width="33%" align="center">
+      <strong>Learning Loop</strong>
+      <br><br>
+      DSA practice, AI workflows, backend depth, and deployment discipline
+    </td>
+  </tr>
+</table>
 
 ---
 
