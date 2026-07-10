@@ -106,12 +106,30 @@ I like building products that are useful beyond a demo: authenticated systems, d
 
 ### What I Care About
 
-```txt
-Clean architecture        APIs that are boring to consume
-Fast feedback loops       UI that makes the main workflow obvious
-Strong validation         Edge cases handled before users find them
-Practical AI              Retrieval, citations, and useful automation
-```
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/Clean%20Architecture-0f172a?style=for-the-badge&logo=dependabot&logoColor=38bdf8" alt="Clean architecture" />
+      <br><br>
+      APIs that are predictable, boring to consume, and easy to extend
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/Fast%20Feedback-0f172a?style=for-the-badge&logo=lightning&logoColor=f59e0b" alt="Fast feedback" />
+      <br><br>
+      Tight loops for building, testing, debugging, and learning quickly
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/Strong%20Validation-0f172a?style=for-the-badge&logo=checkmarx&logoColor=10b981" alt="Strong validation" />
+      <br><br>
+      Edge cases handled before they become user-facing problems
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/Practical%20AI-0f172a?style=for-the-badge&logo=openai&logoColor=ffffff" alt="Practical AI" />
+      <br><br>
+      Retrieval, citations, grounded answers, and useful automation
+    </td>
+  </tr>
+</table>
 
 ---
 
